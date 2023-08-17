@@ -1,3 +1,20 @@
 body#{
     background: #DC143C;
+    color: black;
+    display: flex
+    justify-content:space-around
+    align: intens padding 24px;
+}
+.cabeçalho-imagagem{
+    width: 20%;
+}
+
+.cabeçalho-lista-intem{
+ display: inline-block
+font: size 36px;
+margin: 0 16px
+}
+
+.escola-imagem{
+    width: 25%
 }

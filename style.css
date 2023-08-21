@@ -18,3 +18,18 @@ margin: 0 16px
 .escola-imagem{
     width: 25%
 }
+.escola{
+    background-image: linear-gradient#DC143C
+    color#000000
+    justify-content: center
+    padding: 24px;
+}
+
+.escola-div-conteudo{
+    width: 35%
+    font-size 24px;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
